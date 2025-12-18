@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 4.5.0 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="3875" height="4774">
+	<rect x="0" y="0" width="3875" height="4774" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,155 2914,230"/>
+		<polygon fill="#404040" stroke="none" points="2914,248 2931,217 2896,217"/>
+		<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,4526 2914,4601"/>
+		<polygon fill="#404040" stroke="none" points="2914,4619 2931,4588 2896,4588"/>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="4" stroke-dasharray="none" d="M 2790,31 A 62 62, 0, 0 0, 2790 155 L 3038,155 A 62 62, 0, 0 0, 3038 31 Z"/>
+			<text x="2914" y="49" fill="#301040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="2914" dy="62" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="4" stroke-dasharray="none" d="M 2790,4619 A 62 62, 0, 0 0, 2790 4743 L 3038,4743 A 62 62, 0, 0 0, 3038 4619 Z"/>
+			<text x="2914" y="4637" fill="#301040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="2914" dy="62" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,465 2914,540"/>
+			<polygon fill="#404040" stroke="none" points="2914,558 2931,527 2896,527"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,713 2914,788"/>
+			<polygon fill="#404040" stroke="none" points="2914,806 2931,775 2896,775"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,930 2914,1005"/>
+			<polygon fill="#404040" stroke="none" points="2914,1023 2931,992 2896,992"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,1147 2914,1222"/>
+			<polygon fill="#404040" stroke="none" points="2914,1240 2931,1209 2896,1209"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,1364 2914,1439"/>
+			<polygon fill="#404040" stroke="none" points="2914,1457 2931,1426 2896,1426"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,1643 2914,1718"/>
+			<polygon fill="#404040" stroke="none" points="2914,1736 2931,1705 2896,1705"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,1860 2914,1935"/>
+			<polygon fill="#404040" stroke="none" points="2914,1953 2931,1922 2896,1922"/>
+			<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2914,2077 2914,2152"/>
+			<polygon fill="#404040" stroke="none" points="2914,2170 2931,2139 2896,2139"/>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" d="M 2542,248 L 2542,465 L 3286,465 L 3286,248 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" points="2542,279 3286,279"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" points="2573,248 2573,465"/>
+				<text x="2929" y="297" fill="#404018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2929" dy="62" unicode-bidi="embed">Real menu, alas, tinggi, sisi,</tspan>
+					<tspan x="2929" dy="62" unicode-bidi="embed"> luas1, luas2, luas3, phi</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" d="M 2728,558 L 2728,713 L 3100,713 L 3100,558 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" points="2728,589 3100,589"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" points="2759,558 2759,713"/>
+				<text x="2929" y="607" fill="#404018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2929" dy="62" unicode-bidi="embed">Integer jari</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2666,806 L 2604,930 L 3162,930 L 3224,806 Z"/>
+				<text x="2914" y="824" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Output &quot;pilih menu&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2604,1023 L 2542,1147 L 3224,1147 L 3286,1023 Z"/>
+				<text x="2914" y="1041" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Output &quot;1.luas lingkaran&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2604,1240 L 2542,1364 L 3224,1364 L 3286,1240 Z"/>
+				<text x="2914" y="1258" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Output &quot;2.luas segitiga&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2635,1457 L 2542,1643 L 3193,1643 L 3286,1457 Z"/>
+				<text x="2914" y="1475" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Output &quot;3.luas bujur</tspan>
+					<tspan x="2914" dy="62" unicode-bidi="embed"> sangkar&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2604,1736 L 2542,1860 L 3224,1860 L 3286,1736 Z"/>
+				<text x="2914" y="1754" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Output &quot;input no menu:&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 2759,1953 L 2697,2077 L 3069,2077 L 3131,1953 Z"/>
+				<text x="2914" y="1971" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2914" dy="62" unicode-bidi="embed">Input menu</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3100,2294 3410,2294 3410,2462"/>
+				<polygon fill="#404040" stroke="none" points="3410,2480 3427,2449 3392,2449"/>
+				<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,3813 3410,4495 2962,4495"/>
+				<polygon fill="#404040" stroke="none" points="2945,4495 2975,4512 2975,4477"/>
+				<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2728,2294 1984,2294 1984,2462"/>
+				<polygon fill="#404040" stroke="none" points="1984,2480 2001,2449 1966,2449"/>
+				<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1984,4371 1984,4495 2865,4495"/>
+				<polygon fill="#404040" stroke="none" points="2883,4495 2852,4477 2852,4512"/>
+				<g>
+					<path fill="#FFD8D8" stroke="#A07878" stroke-width="4" stroke-dasharray="none" d="M 2914,2170 L 2697,2294 L 2914,2418 L 3131,2294 Z"/>
+					<text x="2914" y="2250" fill="#401818" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="2914" dy="62" unicode-bidi="embed">menu = 1</tspan>
+					</text>
+				</g>
+				<g>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,2666 3410,2741"/>
+					<polygon fill="#404040" stroke="none" points="3410,2759 3427,2728 3392,2728"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,2883 3410,2958"/>
+					<polygon fill="#404040" stroke="none" points="3410,2976 3427,2945 3392,2945"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,3100 3410,3175"/>
+					<polygon fill="#404040" stroke="none" points="3410,3193 3427,3162 3392,3162"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,3317 3410,3392"/>
+					<polygon fill="#404040" stroke="none" points="3410,3410 3427,3379 3392,3379"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="3410,3534 3410,3609"/>
+					<polygon fill="#404040" stroke="none" points="3410,3627 3427,3596 3392,3596"/>
+					<g>
+						<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 3131,2480 L 3038,2666 L 3689,2666 L 3782,2480 Z"/>
+						<text x="3410" y="2498" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">Output &quot;input jari-jari</tspan>
+							<tspan x="3410" dy="62" unicode-bidi="embed"> lingkaran&quot;</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 3286,2759 L 3224,2883 L 3534,2883 L 3596,2759 Z"/>
+						<text x="3410" y="2777" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">Input jari</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 3131,2976 L 3069,3100 L 3689,3100 L 3751,2976 Z"/>
+						<text x="3410" y="2994" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">Output &quot;input phi 3.14&quot;</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 3286,3193 L 3224,3317 L 3534,3317 L 3596,3193 Z"/>
+						<text x="3410" y="3211" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">Input phi</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#FFFFD8" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" d="M 3162,3410 L 3162,3534 L 3658,3534 L 3658,3410 Z"/>
+						<text x="3410" y="3428" fill="#404018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">luas1 = phi*jari*jari</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 3069,3627 L 2976,3813 L 3751,3813 L 3844,3627 Z"/>
+						<text x="3410" y="3645" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="3410" dy="62" unicode-bidi="embed">Output &quot;luas lingkarannya</tspan>
+							<tspan x="3410" dy="62" unicode-bidi="embed"> adalah:&quot; &amp;luas1</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2170,2604 2449,2604 2449,2772"/>
+					<polygon fill="#404040" stroke="none" points="2449,2790 2466,2759 2431,2759"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,4061 2449,4340 2032,4340"/>
+					<polygon fill="#404040" stroke="none" points="2015,4340 2045,4357 2045,4322"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1798,2604 868,2604 868,2772"/>
+					<polygon fill="#404040" stroke="none" points="868,2790 885,2759 850,2759"/>
+					<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="868,4216 868,4340 1935,4340"/>
+					<polygon fill="#404040" stroke="none" points="1953,4340 1922,4322 1922,4357"/>
+					<g>
+						<path fill="#FFD8D8" stroke="#A07878" stroke-width="4" stroke-dasharray="none" d="M 1984,2480 L 1767,2604 L 1984,2728 L 2201,2604 Z"/>
+						<text x="1984" y="2560" fill="#401818" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1984" dy="62" unicode-bidi="embed">menu = 2</tspan>
+						</text>
+					</g>
+					<g>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,2914 2449,2989"/>
+						<polygon fill="#404040" stroke="none" points="2449,3007 2466,2976 2431,2976"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,3131 2449,3206"/>
+						<polygon fill="#404040" stroke="none" points="2449,3224 2466,3193 2431,3193"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,3348 2449,3423"/>
+						<polygon fill="#404040" stroke="none" points="2449,3441 2466,3410 2431,3410"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,3565 2449,3640"/>
+						<polygon fill="#404040" stroke="none" points="2449,3658 2466,3627 2431,3627"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="2449,3782 2449,3857"/>
+						<polygon fill="#404040" stroke="none" points="2449,3875 2466,3844 2431,3844"/>
+						<g>
+							<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2108,2790 L 2046,2914 L 2790,2914 L 2852,2790 Z"/>
+							<text x="2449" y="2808" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">Output &quot;input alas segitiga&quot;</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 2294,3007 L 2232,3131 L 2604,3131 L 2666,3007 Z"/>
+							<text x="2449" y="3025" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">Input alas</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2170,3224 L 2108,3348 L 2728,3348 L 2790,3224 Z"/>
+							<text x="2449" y="3242" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">Output &quot;input tinggi&quot;</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 2294,3441 L 2232,3565 L 2604,3565 L 2666,3441 Z"/>
+							<text x="2449" y="3459" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">Input tinggi</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#FFFFD8" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" d="M 2170,3658 L 2170,3782 L 2728,3782 L 2728,3658 Z"/>
+							<text x="2449" y="3676" fill="#404018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">luas2 = (alas*tinggi)/2</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 2139,3875 L 2046,4061 L 2759,4061 L 2852,3875 Z"/>
+							<text x="2449" y="3893" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2449" dy="62" unicode-bidi="embed">Output &quot;luas segitiganya</tspan>
+								<tspan x="2449" dy="62" unicode-bidi="embed"> adalah:&quot; &amp;luas2</tspan>
+							</text>
+						</g>
+					</g>
+					<g>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1054,2914 1426,2914 1426,3082"/>
+						<polygon fill="#404040" stroke="none" points="1426,3100 1443,3069 1408,3069"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1426,4061 1426,4185 916,4185"/>
+						<polygon fill="#404040" stroke="none" points="899,4185 929,4202 929,4167"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="682,2914 465,2914 465,3082"/>
+						<polygon fill="#404040" stroke="none" points="465,3100 482,3069 447,3069"/>
+						<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="465,3224 465,4185 819,4185"/>
+						<polygon fill="#404040" stroke="none" points="837,4185 806,4167 806,4202"/>
+						<g>
+							<path fill="#FFD8D8" stroke="#A07878" stroke-width="4" stroke-dasharray="none" d="M 868,2790 L 651,2914 L 868,3038 L 1085,2914 Z"/>
+							<text x="868" y="2870" fill="#401818" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="868" dy="62" unicode-bidi="embed">menu = 3</tspan>
+							</text>
+						</g>
+						<g>
+							<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1426,3286 1426,3361"/>
+							<polygon fill="#404040" stroke="none" points="1426,3379 1443,3348 1408,3348"/>
+							<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1426,3503 1426,3578"/>
+							<polygon fill="#404040" stroke="none" points="1426,3596 1443,3565 1408,3565"/>
+							<polyline fill="none" stroke="#404040" stroke-width="8" stroke-dasharray="none" points="1426,3720 1426,3795"/>
+							<polygon fill="#404040" stroke="none" points="1426,3813 1443,3782 1408,3782"/>
+							<g>
+								<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 1116,3100 L 1023,3286 L 1736,3286 L 1829,3100 Z"/>
+								<text x="1426" y="3118" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1426" dy="62" unicode-bidi="embed">Output &quot;input sisi bujur</tspan>
+									<tspan x="1426" dy="62" unicode-bidi="embed"> sangkar&quot;</tspan>
+								</text>
+							</g>
+							<g>
+								<path fill="#D0E8FF" stroke="#7088A0" stroke-width="4" stroke-dasharray="none" d="M 1271,3379 L 1209,3503 L 1581,3503 L 1643,3379 Z"/>
+								<text x="1426" y="3397" fill="#102840" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1426" dy="62" unicode-bidi="embed">Input sisi</tspan>
+								</text>
+							</g>
+							<g>
+								<path fill="#FFFFD8" stroke="#A0A078" stroke-width="4" stroke-dasharray="none" d="M 1209,3596 L 1209,3720 L 1643,3720 L 1643,3596 Z"/>
+								<text x="1426" y="3614" fill="#404018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1426" dy="62" unicode-bidi="embed">luas3 = sisi*sisi</tspan>
+								</text>
+							</g>
+							<g>
+								<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 1054,3813 L 930,4061 L 1798,4061 L 1922,3813 Z"/>
+								<text x="1426" y="3831" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1426" dy="62" unicode-bidi="embed">Output &quot;luas</tspan>
+									<tspan x="1426" dy="62" unicode-bidi="embed"> bujursangkarnya adalah:&quot; &amp;</tspan>
+									<tspan x="1426" dy="62" unicode-bidi="embed">luas3</tspan>
+								</text>
+							</g>
+						</g>
+						<g>
+							<path fill="#D8FFD8" stroke="#78A078" stroke-width="4" stroke-dasharray="none" d="M 186,3100 L 124,3224 L 744,3224 L 806,3100 Z"/>
+							<text x="465" y="3118" fill="#184018" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="465" dy="62" unicode-bidi="embed">Output &quot;menu salah&quot;</tspan>
+							</text>
+						</g>
+						<ellipse cx="868" cy="4185" rx="31" ry="31" fill="#FFD8D8" stroke="#A07878" stroke-width="4"/>
+						<text x="1178" y="2808" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1178" dy="62" unicode-bidi="embed">True</tspan>
+						</text>
+						<text x="558" y="2808" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="558" dy="62" unicode-bidi="embed">False</tspan>
+						</text>
+					</g>
+					<ellipse cx="1984" cy="4340" rx="31" ry="31" fill="#FFD8D8" stroke="#A07878" stroke-width="4"/>
+					<text x="2294" y="2498" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="2294" dy="62" unicode-bidi="embed">True</tspan>
+					</text>
+					<text x="1674" y="2498" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1674" dy="62" unicode-bidi="embed">False</tspan>
+					</text>
+				</g>
+				<ellipse cx="2914" cy="4495" rx="31" ry="31" fill="#FFD8D8" stroke="#A07878" stroke-width="4"/>
+				<text x="3224" y="2188" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="3224" dy="62" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="2604" y="2188" fill="#404040" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="2604" dy="62" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
