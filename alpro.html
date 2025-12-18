@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algoritma Pemrograman Note</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-black-100 font-sans">
+    <header class="bg-gradient-to-r from-blue-600 to-purple-500 top-0 z-10">
+        <div class="container mx-auto px-3 py-1 flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-black-800">
+                ALGORITMA PEMROGRAMAN
+            </h1>
+            <nav class="flex items-center space-x-4">
+                <!-- Logo 1: Teknik Informatika -->
+                <a href="#" class="nav-link">
+                    <img src="Export/logotif.png" alt="Logo Teknik Informatika" class="h-10 w-10 hover:opacity-80 transition-opacity duration-300">
+                </a>
+                <!-- Logo 2: Fakultas -->
+                <a href="#" class="nav-link">
+                    <img src="Export/logofakultas.png" alt="Logo Fakultas" class="h-10 w-10 hover:opacity-80 transition-opacity duration-300">
+                </a>
+                <!-- Logo 3: UTM -->
+                <a href="#" class="nav-link">
+                    <img src="Export/logoUTM.png" alt="Logo UTM" class="h-10 w-10 hover:opacity-80 transition-opacity duration-300">
+                </a>
+            </nav>
+        </div>
+    </header>
+    <main class="flex items-center justify-center h-screen">
+        <section class="hero bg-white text-black w-full h-screen flex items-center justify-center">
+            <div class="container mx-auto text-center">
+                <h2 class="text-5xl font-bold">CATATAN ALGORITMA PEMROGRAMAN</h2>
+                <p class="mt-4 text-lg">
+                    Muhammad Zaki Al Farros (250411100152) IF-1D
+                </p>
+                <button id="get-started" class="mt-6 bg-gradient-to-r from-blue-500 to-purple-500 text-black-600 font-bold px-6 py-3 rounded-lg shadow-lg hover:bg-gray-100 transition duration-300">
+                    Open Note
+                </button>
+                <script>
+                    // JavaScript untuk membuka file
+                    document.getElementById('get-started').addEventListener('click', function() {
+                        window.open('Export/Catatan Alpro1.html', '_blank');
+                    });
+                </script>
+            </div>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2025 Teknik Informatika. Universitas Trunojoyo Madura.</p>
+        </div>
+    </footer>
+
+    <!-- Modal -->
+    <div id="modal" class="hidden fixed inset-0 z-50 bg-black bg-opacity-50 flex justify-center items-center">
+        <div class="bg-white rounded-lg shadow-lg p-8 text-center">
+            <h3 class="text-xl font-bold">Get Started Now!</h3>
+            <p class="mt-4 text-gray-600">
+                We are here to help make your ideas iconic and real.
+            </p>
+            <button id="close-modal" class="mt-6 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300">
+                Close
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+/* General body styling */
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+/* Main styling */
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height of viewport */
+}
+
+/* Hero section styles */
+.hero {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    width: 100%;
+}
+
+/* Navigation styles */
+nav a {
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #4338ca;
+}
+
+/* Smooth scroll effect */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Modal styling */
+#modal {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+/* Styling untuk logo navigasi */
+nav a.nav-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Efek hover yang lebih halus */
+nav img {
+    transition: all 0.3s ease;
+}
+
+nav img:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
